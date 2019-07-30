@@ -4,6 +4,8 @@
 > talk is cheap show me the code
 
 ### HTML/CSS
+- [x] 웹 호스팅: Github Page
+- [x] 웹 서버운영: Apache(Bitnami)
 ### JavaScript
 - Ajax
 - Facbook/Google Login
