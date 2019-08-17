@@ -23,8 +23,8 @@
 - [x] 객체 프로퍼티와 메소드
 - [x] 객체의 활용
 - [x] 파일로 쪼개서 정리 정돈하기 : js파일 생성
-- 라이브러리와 프레임워크
-- UI vs API
+- [x] 라이브러리와 프레임워크
+- [x] UI vs API
 - Ajax
 - Facbook/Google Login
 
